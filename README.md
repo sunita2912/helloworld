@@ -1,2 +1,2 @@
 # helloworld
-wanted to creat a app
+wanted to creat an app with python for andriod native or web app which ever
